@@ -1,0 +1,38 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1489782695246" />
+    <property name="SAVED_COMPANY_DOMAIN" value="abbisqq.com" />
+    <property name="MobileminApi" value="21" />
+    <property name="lastTip" value="21" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="newly.installed.api.level" value="23" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="LOG_FILTER_HISTORY" value="FUN&#10;HU&#10;HUH" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ANDROID_THEME_HISTORY" value="AppThe&#10;App&#10;noAc" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="1.0" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.gitconfig&#10;C:/Users/chart/Downloads/GitHubSetup.exe&#10;C:/Users/chart/Downloads/Git-2.12.0-64-bit.exe&#10;C:/Users/chart/Downloads/Funshine-master/Funshine-master&#10;C:/Users/chart/AndroidStudioProjects/Funshine-Source" />
+  </component>
+</application>
